@@ -1,0 +1,26 @@
+body{
+    background-color: #DA74E8;
+}
+p{
+    background-color: #E87477; 
+    color: #E874BD;
+} 
+#imagemdecima {
+    width: 400px ; 
+    display: block;
+    margin: auto; 
+    border-radius: 5%;
+    border-color: aqua;
+}
+#imagemdebaixo
+{
+    width: 50px; 
+    margin-left: 90%;
+}
+.meio
+{
+    background-color: #B474E8;
+    width: 60%;
+    color: rgb(0, 0, 0);
+    margin: auto;
+}

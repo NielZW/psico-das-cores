@@ -1,0 +1,19 @@
+#figura{
+    height: 50px;
+} 
+#meuTitulo{
+    text-align: right;
+}
+#outroTit{
+    background-color: blueviolet;
+}
+.Vermelho{
+    background-color: black;
+    color: red;
+}
+.centralizado{
+    text-align: center;
+}
+.mudaFonte{
+    font-family: cursive;
+}

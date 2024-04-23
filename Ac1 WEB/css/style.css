@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/*Para garantir que nao teremos problemas com acentuação*/
+
+body{
+    background-color: blanchedalmond;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+h1{
+    text-align: center;
+}
+p, li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+}
+#ladyBug{
+    width: 50px;
+    margin-left: 93%;
+}
+
+.textoGrande{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22pt;
+    text-align: center;
+}
+.fundoBranco{
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.letraVermelha{
+    color: rgb(128, 36, 36);
+}
